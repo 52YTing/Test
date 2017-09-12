@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>MyTest</title>
+</head>
+<body>
+document.write("wo shini a"); 
+</body>
+</html>
